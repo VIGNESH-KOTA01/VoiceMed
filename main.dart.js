@@ -101070,7 +101070,7 @@ s=4
 return A.l(A.a7k(null,null,!0,null,new A.aCp(a),o,null,!0,t.y),$async$qN)
 case 4:s=c===!0?2:3
 break
-case 2:p=A.MV(null,"+911234567890",null,"tel")
+case 2:p=A.MV(null,"+919819558644",null,"tel")
 s=7
 return A.l(A.aJI(p),$async$qN)
 case 7:s=c?5:6
@@ -101203,7 +101203,7 @@ s=4
 return A.l(A.a7k(null,null,!0,null,new A.aDi(a),o,null,!0,t.y),$async$r6)
 case 4:s=c===!0?2:3
 break
-case 2:p=A.MV(null,"+911234567890",null,"tel")
+case 2:p=A.MV(null,"+919819558644",null,"tel")
 s=7
 return A.l(A.aJI(p),$async$r6)
 case 7:s=c?5:6
@@ -112769,8 +112769,8 @@ B.agP=new A.y(!0,B.Y,null,".AppleSystemUIFont",null,null,null,null,null,null,nul
 B.ahb=new A.y(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.aef=new A.y(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.aig=new A.eA(B.ag3,B.aeY,B.ag4,B.agw,B.aeF,B.aeN,B.afj,B.agr,B.afv,B.agS,B.ae8,B.aer,B.agP,B.ahb,B.aef)
+B.Dk=new A.uD("+919819558644",null,null,null,null,null,null,null,null,null,null)
 B.aih=new A.uD("Doses Per Day",null,null,null,null,null,null,null,null,null,null)
-B.Dk=new A.uD("+911234567890",null,null,null,null,null,null,null,null,null,null)
 B.alX=new A.auH(0,"system")
 B.a7N=new A.j(0.056,0.024)
 B.a81=new A.j(0.108,0.3085)
